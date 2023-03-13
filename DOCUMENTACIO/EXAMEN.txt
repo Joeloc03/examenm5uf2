@@ -1,0 +1,13 @@
+git init
+
+git status -s
+
+git add 
+ 
+git remote add origin https://github.com/Joeloc03/examenm5uf2.git
+
+git commit -m "Versio 1: Fitxers Readme, CopyLeft i carpeta Documentació"
+
+git push https://github.com/Joeloc03/examenm5uf2.git master 
+
+
