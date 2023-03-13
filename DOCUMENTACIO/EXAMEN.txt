@@ -10,4 +10,21 @@ git commit -m "Versio 1: Fitxers Readme, CopyLeft i carpeta Documentació"
 
 git push https://github.com/Joeloc03/examenm5uf2.git master 
 
+//// 2 
+
+git add .
+
+git status -s 
+
+git commit -m "Versio 2: Arxiu license"
+
+git push https://github.com/Joeloc03/examenm5uf2.git master 
+
+/// 3
+
+afegim archou gitignore
+
+Debug/
+
+
 
